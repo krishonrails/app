@@ -22,6 +22,9 @@ group :assets do
 end
 
 gem 'jquery-rails'
+gem 'capistrano',  '~> 3.1'
+gem 'capistrano-rails', '~> 1.1'
+
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
